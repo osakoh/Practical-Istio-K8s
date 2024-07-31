@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+/.metadata/
+target/
+.recommenders/
+
+
 # C extensions
 *.so
 
